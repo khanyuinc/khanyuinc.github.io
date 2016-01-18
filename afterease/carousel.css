@@ -48,6 +48,19 @@ body {
   z-index: 10;
 }
 
+.carousel-caption h3
+{
+  font-weight: 300;
+  margin-bottom: 0px;
+  color: #eee;
+}
+
+.carousel-caption h1
+{
+  margin-top: 5px;
+  color: #eee;
+}
+
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 350px;
